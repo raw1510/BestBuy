@@ -6,7 +6,8 @@
     "price": "₹599",
     "rating": 4.9,
     "image": "https://m.media-amazon.com/images/I/713Jf1cFWDL._SX679_.jpg",
-    "affiliate_url": "https://amzn.to/3JbtCda"
+    "affiliate_url": "https://amzn.to/3JbtCda",
+    "tags":"kitchen"
   },
   {
     "id": "p002",
@@ -15,6 +16,17 @@
     "price": "₹211",
     "rating": 4.8,
     "image": "https://m.media-amazon.com/images/I/71KPMjt9R-L._SX679_.jpg",
-    "affiliate_url": "https://amzn.to/47xqBOa"
+    "affiliate_url": "https://amzn.to/47xqBOa",
+    "tags":"health"
+  },
+  {
+    "id": "p003",
+    "title": "TEKCOOL Small UV Protection Travel Umbrella",
+    "description": "Compact for Rain and Sun UPF 50+ 41 inch Portable Umbrella for Women and Men",
+    "price": "₹499",
+    "rating": 4.3,
+    "image": "https://m.media-amazon.com/images/I/411CjakNd+L._SX522_.jpg",
+    "affiliate_url": "https://amzn.to/45fzJWs",
+    "tags":"general"
   }
 ]
