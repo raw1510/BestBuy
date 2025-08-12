@@ -28,5 +28,25 @@
     "image": "https://m.media-amazon.com/images/I/411CjakNd+L._SX522_.jpg",
     "affiliate_url": "https://amzn.to/45fzJWs",
     "tags":"general"
-  }
+  },
+  {
+    "id": "p004",
+    "title": "rts Universal Travel Adapter",
+    "description": "International All in One Worldwide Travel Adapter and Wall Charger with USB Ports with Multi Type Power Outlet USB 2.1A,100-250 Voltage Travel Charger",
+    "price": "₹582",
+    "rating": 5.0,
+    "image": "https://m.media-amazon.com/images/I/611RCy1XjsL._SY879_.jpg",
+    "affiliate_url": "https://amzn.to/4mGg9IO",
+    "tags":"travel,general"
+  },
+  {
+    "id": "p005",
+    "title": "Automatic Wireless Water Can Dispenser Pump",
+    "description": "for 20 Litre Bottle Can, with Low Noise & High Efficiency",
+    "price": "₹199",
+    "rating": 3.8,
+    "image": "https://m.media-amazon.com/images/I/61+gvsVCj0L._SL1500_.jpg",
+    "affiliate_url": "https://amzn.to/41yZJtl",
+    "tags":"home,kitchen"
+  },
 ]
