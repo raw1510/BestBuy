@@ -48,5 +48,15 @@
     "image": "https://m.media-amazon.com/images/I/61+gvsVCj0L._SL1500_.jpg",
     "affiliate_url": "https://amzn.to/41yZJtl",
     "tags": "home,kitchen"
+  },
+  {
+    "id": "p006",
+    "title": "EvoFox Blaze Ultra Value 8 Button Programmable Gaming Mouse",
+    "description": "with 1000Hz Polling Rate | Gaming Grade DPI 200 to 12800 | Ultra-Responsive 7000fps | RGB Lights with Music sync Mode | Windows Software",
+    "price": "₹599",
+    "rating": 4.2,
+    "image": "https://m.media-amazon.com/images/I/516kq12OmmL._SX522_.jpg",
+    "affiliate_url": "https://amzn.to/3JdGC1S",
+    "tags": "gaming"
   }
 ]
