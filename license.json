@@ -6,6 +6,7 @@
     "http://localhost:8000",
     "http://127.0.0.1:8000",
     "http://localhost:8080",
-    "http://127.0.0.1:8080"
+    "http://127.0.0.1:8080",
+    "https://8000-firebase-college-1755846922490.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev/"
   ]
 }
